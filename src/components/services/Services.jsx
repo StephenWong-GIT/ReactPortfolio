@@ -8,9 +8,9 @@ const Services = () => {
             <h5>What I Offer</h5>
             <h2>Services</h2>
 
-            <div className="container services__container">
+            <div className="container service__container">
                 <article className="service">
-                    <div className="services__head">
+                    <div className="service__head">
                         <h3>UI/UX Design</h3>
                     </div>
 
@@ -43,7 +43,7 @@ const Services = () => {
                 </article>
                 {/*END OF UI/UX*/}
                 <article className="service">
-                    <div className="services__head">
+                    <div className="service__head">
                         <h3>Web Development</h3>
                     </div>
 
@@ -80,7 +80,7 @@ const Services = () => {
                 </article>
                 {/*END OF WEB DEVELOPMENT*/}
                 <article className="service">
-                    <div className="services__head">
+                    <div className="service__head">
                         <h3>Content Creation</h3>
                     </div>
 
