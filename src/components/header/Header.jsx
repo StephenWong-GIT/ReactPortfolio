@@ -4,11 +4,11 @@ import CTA from  './CTA'
 import ME from '../../assets/me.png'
 import HeaderSocial from './HeaderSocial'
 
+
 const Header = () => {
     return (
         <header>
             <div className="container header__container">
-                <h5>Hello I'm</h5>
                 <h1>Stephen Wong</h1>
                 <h5 classname="text-light">Fullstack Developer</h5>
                 <CTA />
