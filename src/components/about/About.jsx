@@ -4,6 +4,7 @@ import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import CV from '../../assets/cv.pdf'
 
 const About = () => {
     return (
@@ -37,9 +38,10 @@ const About = () => {
                         </article>
 
                         <p>
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." 
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."" 
                         </p>
 
+                        <a href={CV} download className='btn'>Download CV</a>
                         <a href="#contact" className="btn btn-primary">Let's Talk!</a>
                     </div>
                 <div className="about__content">
