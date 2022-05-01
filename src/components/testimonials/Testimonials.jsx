@@ -27,12 +27,12 @@ const data = [
     },
     {
         avatar: AVTR3,
-        name: 'Jason Lam',
+        name: 'Chris Nitsch',
         review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
     },
     {
         avatar: AVTR4,
-        name: 'James Depalo',
+        name: 'Jason Lam',
         review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
     },
 ]
