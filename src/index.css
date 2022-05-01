@@ -536,6 +536,7 @@ nav a.active {
 
 .container.testimonials__container {
   width: 40%;
+  padding-bottom: 4rem;
 }
 
 .client__avatar {
@@ -561,6 +562,10 @@ nav a.active {
   display: block;
   width: 80%;
   margin: 0.8rem auto 0;
+}
+
+.swiper-pagination-clickable swiper-pagination-bullet {
+  background: var(--color-primary);
 }
 
 /* ============================= MEDIA QUERIES (MEDIUM DEVICES) ==================== */
