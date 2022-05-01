@@ -34,16 +34,19 @@ const Testimonials = () => {
             <h2>Testimonials</h2>
 
             <div className="container testimonials__container">
-                <article className="testimonial">
-                    <div className="client__avatar">
-                        <img src={AVTR1} alt="Avatar One" />
-                    </div>
-                        <h5 className="client__name">Ernest Achiever</h5>
-                        <small className="client__review">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. 
-                            Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus. 
-                        </small>
-                </article>
+                {
+                    data.map(({avatar, name, review}, index) => {
+                        return (
+                            <article key={index} className="testimonial">
+                            <div className="client__avatar">
+                                <img src={avatar} />
+                            </div>
+                                <h5 className="client__name">{name}</h5>
+                                <small className="client__review">{review}</small>
+                        </article>
+                        )
+                    })
+                }
             </div>
         </section>
     )
