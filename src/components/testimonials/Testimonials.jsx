@@ -3,6 +3,10 @@ import AVTR1 from '../../assets/avatar1.jpg'
 import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from '../../assets/avatar3.jpg'
 import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR5 from '../../assets/avatar5.png'
+import AVTR6 from '../../assets/avatar6.jpg'
+import AVTR7 from '../../assets/avatar7.jpg'
+
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
