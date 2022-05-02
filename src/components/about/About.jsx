@@ -36,7 +36,6 @@ const About = () => {
                             <small>30+ Completed</small>
                         </article>
                         <p>Full Stack Developer with 1+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.</p>
-                        <a href={CV} download className='btn'>Resume</a>
                         <a href="#contact" className="btn btn-primary">Let's Talk!</a>
                     </div>
                 <div className="about__content">
