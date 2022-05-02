@@ -28,18 +28,19 @@ const data = [
     {
         avatar: AVTR3,
         name: 'James Depalo @MaimonidesEMS',
-        review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed leadership and calmness even in the most stressfull situations. Hes always quick on his feet and knows exactly what to do and how, one of the best problem solvers I have ever met.',
+        review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed leadership and calmness even in the most stressfull situations. He has also help set up media content on my Twitch where I stream games and podcast, he always knows whats trending and how to make my channel grow!',
     },
     {
         avatar: AVTR4,
         name: 'Francine Foo @Rumc Wellness Chief',
-        review: 'I have known Stephe',
+        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
     },
 ]
 
 const Testimonials = () => {
     return (
         <section id='testimonials'>
+            <h5>Review from Clients and Friends</h5>
             <h2>Testimonials</h2>
 
             <Swiper className="container testimonials__container"
