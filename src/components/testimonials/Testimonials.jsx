@@ -27,12 +27,12 @@ const data = [
     },
     {
         avatar: AVTR3,
-        name: 'Francine Foo @Rumc Wellness Chief',
-        review: '',
+        name: 'James Depalo @MaimonidesEMS',
+        review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed leadership and a calmness even in the most stressfull situations. Hes always quick on his feet and knows exactly what to do and when, one of the best problem solvers I have ever met.',
     },
     {
         avatar: AVTR4,
-        name: 'James Depalo @MaimonidesEMS',
+        name: 'Francine Foo @Rumc Wellness Chief',
         review: '',
     },
 ]
