@@ -17,23 +17,23 @@ import 'swiper/css/pagination';
 const data = [
     {
         avatar: AVTR1,
-        name: 'Francine Foo',
-        review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
+        name: 'Chris Nitsch @NitschMedia',
+        review: 'Stephen is an eager developer with a broad set of skills and is quick minded in problem solving. We have collaborated on a few projects together, some nice and easy and others like managing an ecommerce website. He is always a joy to work with and very patient and understanding. Looking forward to upcoming projects.',
     },
     {
         avatar: AVTR2,
-        name: 'Seth Cotter',
-        review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
+        name: 'Yulia @JunitFounder',
+        review: 'A friend recommened Stephen to me at the very early stages of my own brand. We have been working together eversince, He goes above and beyond whats asked and has even gone through lenghts to even teach me the backend of my own website so I can update and change my own products without haveing to wait on anyone!',
     },
     {
         avatar: AVTR3,
-        name: 'Chris Nitsch',
-        review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
+        name: 'Francine Foo @Rumc Wellness Chief',
+        review: '',
     },
     {
         avatar: AVTR4,
-        name: 'Jason Lam',
-        review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie aliquet pellentesque. Quisque faucibus in elit eu interdum. Phasellus a elit ac orci pellentesque rhoncus ut a leo. Vestibulum ante nibh, mattis vitae tempus nec, pharetra at risus.',
+        name: 'James Depalo @MaimonidesEMS',
+        review: '',
     },
 ]
 
