@@ -23,7 +23,7 @@ const data = [
     {
         avatar: AVTR2,
         name: 'Yulia @JunitFounder',
-        review: 'A friend recommened Stephen to me at the very early stages of my own brand. We have been working together ever since. He goes above and beyond whats asked and has even gone through lenghts to teach me the backend of my own website so I can update and change my own products without haveing to wait on anyone!',
+        review: 'A friend recommened Stephen to me at the very early stages of my own brand. We have been working together ever since. He goes above and beyond whats asked and has even gone through lenghts to teach me the backend of my own website so I can update and change my own products without having to wait on anyone!',
     },
     {
         avatar: AVTR3,
