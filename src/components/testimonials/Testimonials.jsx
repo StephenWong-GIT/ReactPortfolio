@@ -2,10 +2,9 @@ import React from "react"
 import AVTR1 from '../../assets/avatar1.jpg'
 import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
-import AVTR5 from '../../assets/avatar5.png'
+import AVTR4 from '../../assets/avatar4.png'
+import AVTR5 from '../../assets/avatar5.jpg'
 import AVTR6 from '../../assets/avatar6.jpg'
-import AVTR7 from '../../assets/avatar7.jpg'
 
 
 // import Swiper core and required modules
@@ -30,14 +29,24 @@ const data = [
         review: 'A friend recommened Stephen to me at the very early stages of my own brand. We have been working together ever since. He goes above and beyond whats asked and has even gone through lenghts to teach me the backend of my own website so I can update and change my own products without having to wait on anyone!',
     },
     {
+        avatar: AVTR4,
+        name: 'Christina Cartagena @BlockchainChristy' ,
+        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
+    },
+    {
+        avatar: AVTR5,
+        name: 'Francine Foo @Rumc Wellness Chief',
+        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
+    },
+    {
+        avatar: AVTR6,
+        name: 'Seth Cotter @Senior Consultant',
+        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
+    },
+    {
         avatar: AVTR3,
         name: 'James Depalo @MaimonidesEMS',
         review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed leadership and calmness even in the most stressfull situations. He has also help set up media content on my Twitch where I stream games and podcast, he always knows whats trending and how to make my channel grow!',
-    },
-    {
-        avatar: AVTR4,
-        name: 'Francine Foo @Rumc Wellness Chief',
-        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
     },
 ]
 
