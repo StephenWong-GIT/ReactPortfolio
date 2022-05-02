@@ -57,11 +57,19 @@ const Services = () => {
                         </li>
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p>Quality Assurance</p>
+                            <p>Advance Code Capability</p>
                         </li>
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p>Growth and Evolution</p>
+                            <p>Web Application Testing</p>
+                        </li>
+                        <li>
+                            <BiCheck className='service__list-icon' />
+                            <p>Ecommerce Development</p>
+                        </li>
+                        <li>
+                            <BiCheck className='service__list-icon' />
+                            <p>Security First Web Application</p>
                         </li>
                     </ul>
                 </article>
