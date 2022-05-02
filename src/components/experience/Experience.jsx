@@ -4,7 +4,6 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 const Experience = () => {
     return (
         <section id='experience'>
-            <h5>What Skills I Have</h5>
             <h2>My Experience</h2>
             <div className="container experience__container">
                 <div className="experience__frontend">
@@ -63,8 +62,8 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className='experience__details-icon' />
                         <div>
-                            <h4>MongoDB</h4>
-                            <small className='text-light'>Intermediate</small>
+                            <h4>NodeJs</h4>
+                            <small className='text-light'>Experienced</small>
                         </div>
                         </article>
                         <article className="experience__details">
@@ -77,8 +76,15 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className='experience__details-icon' />
                         <div>
-                            <h4>NodeJs</h4>
-                            <small className='text-light'>Experienced</small>
+                            <h4>Python</h4>
+                            <small className='text-light'>Intermediate</small>
+                        </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className='experience__details-icon' />
+                        <div>
+                            <h4>MongoDB</h4>
+                            <small className='text-light'>Intermediate</small>
                         </div>
                         </article>
                         <article className="experience__details">

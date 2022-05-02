@@ -12,9 +12,9 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Crypto Currency Dashboard & Financial Visualization',
+        title: 'Junit',
         github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+        demo: 'https://junit.com'
     },
     {
         id: 2,
@@ -56,7 +56,6 @@ const data = [
 const Portfolio = () => {
     return (
         <section id='portfolio'>
-            <h5>My Recent Work</h5>
             <h2>Portfolio</h2>
 
             <div className="container portfolio__container">

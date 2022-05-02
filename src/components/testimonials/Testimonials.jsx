@@ -33,14 +33,13 @@ const data = [
     {
         avatar: AVTR4,
         name: 'Francine Foo @Rumc Wellness Chief',
-        review: '',
+        review: 'I have known Stephe',
     },
 ]
 
 const Testimonials = () => {
     return (
         <section id='testimonials'>
-            <h5>Review from clients</h5>
             <h2>Testimonials</h2>
 
             <Swiper className="container testimonials__container"
