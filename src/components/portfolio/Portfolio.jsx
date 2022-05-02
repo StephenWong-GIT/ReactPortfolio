@@ -19,24 +19,24 @@ const data = [
     {
         id: 2,
         image: IMG2,
-        title: 'VeggieTakes, Trending Movie Application',
-        github: 'https://github.com/StephenWong-GIT/Vegitate',
-        demo: 'https://stephenwong-git.github.io/Vegitate/'
+        title: 'iBetcrypto, Sport Betting using cyrpto currency',
+        github: 'https://github.com/',
+        demo: 'https://ibetcrypto.io/'
     },
-    {
-        id: 3,
-        image: IMG4,
-        title: 'Employee Manager Application',
-        github: 'https://github.com/StephenWong-GIT/Employee-Tracker',
-        demo: 'https://github.com/StephenWong-GIT/Employee-Tracker/blob/main/assets/Employee%20vid.mp4'
-    },
-    {
-        id: 4,
-        image: IMG3,
-        title: 'Weather Dashboard Application',
-        github: 'https://github.com/StephenWong-GIT/Weather-Dashboard-App',
-        demo: 'https://stephenwong-git.github.io/Weather-Dashboard-App/'
-    },
+    // {
+    //     id: 3,
+    //     image: IMG4,
+    //     title: 'Employee Manager Application',
+    //     github: 'https://github.com/StephenWong-GIT/Employee-Tracker',
+    //     demo: 'https://github.com/StephenWong-GIT/Employee-Tracker/blob/main/assets/Employee%20vid.mp4'
+    // },
+    // {
+    //     id: 4,
+    //     image: IMG3,
+    //     title: 'Weather Dashboard Application',
+    //     github: 'https://github.com/StephenWong-GIT/Weather-Dashboard-App',
+    //     demo: 'https://stephenwong-git.github.io/Weather-Dashboard-App/'
+    // },
     // {
     //     id: 5,
     //     image: IMG5,
