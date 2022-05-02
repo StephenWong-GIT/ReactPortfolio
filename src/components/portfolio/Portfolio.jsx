@@ -1,8 +1,8 @@
 import React from "react"
 import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -12,45 +12,45 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Junit',
-        github: 'https://github.com',
+        title: 'Junit, eCommerce Jewelry Website',
+        github: 'https://github.com/cnitsch821/junit-theme',
         demo: 'https://junit.com'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'Charts templates & infographics in Figma',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-inforgraphics-in-Figma'
+        title: 'VeggieTakes, Trending Movie Application',
+        github: 'https://github.com/StephenWong-GIT/Vegitate',
+        demo: 'https://stephenwong-git.github.io/Vegitate/'
     },
     {
         id: 3,
-        image: IMG3,
-        title: 'Figma dashboard UI kit for data design web apps',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+        image: IMG4,
+        title: 'Employee Manager Application',
+        github: 'https://github.com/StephenWong-GIT/Employee-Tracker',
+        demo: 'https://github.com/StephenWong-GIT/Employee-Tracker/blob/main/assets/Employee%20vid.mp4'
     },
     {
         id: 4,
-        image: IMG4,
-        title: 'Maintaining tasks and tracking progress',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+        image: IMG3,
+        title: 'Weather Dashboard Application',
+        github: 'https://github.com/StephenWong-GIT/Weather-Dashboard-App',
+        demo: 'https://stephenwong-git.github.io/Weather-Dashboard-App/'
     },
-    {
-        id: 5,
-        image: IMG5,
-        title: 'Charts templates & infographics in Figma',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-inforgraphics-in-Figma'
-    },
-    {
-        id: 6,
-        image: IMG6,
-        title: 'Charts templates & infographics in Figma',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-inforgraphics-in-Figma'
-    },
+    // {
+    //     id: 5,
+    //     image: IMG5,
+    //     title: 'Budget Tracker',
+    //     github: 'https://github.com/StephenWong-GIT/Budget-Tracker',
+    //     demo: 'https://morning-chamber-11706.herokuapp.com/'
+    // },
+    // {
+    //     id: 6,
+    //     image: IMG6,
+    //     title: 'Charts templates & infographics in Figma',
+    //     github: 'https://github.com',
+    //     demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-inforgraphics-in-Figma'
+    // },
 ]
 
 const Portfolio = () => {
