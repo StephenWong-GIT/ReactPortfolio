@@ -190,6 +190,10 @@ img {
     padding: 2rem;
     text-align: center;
   }
+
+  .about__cards p {
+    display: flex;
+  }
   
   .about__card:hover {
     background: transparent;

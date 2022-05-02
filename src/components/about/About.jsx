@@ -35,12 +35,8 @@ const About = () => {
                             <h5>Projects</h5>
                             <small>30+ Completed</small>
                         </article>
-
-                        <p>
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."" 
-                        </p>
-
-                        <a href={CV} download className='btn'>Download CV</a>
+                        <p>Full Stack Developer with 1+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.</p>
+                        <a href={CV} download className='btn'>Resume</a>
                         <a href="#contact" className="btn btn-primary">Let's Talk!</a>
                     </div>
                 <div className="about__content">

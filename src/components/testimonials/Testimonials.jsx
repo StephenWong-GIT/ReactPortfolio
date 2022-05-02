@@ -18,7 +18,7 @@ const data = [
     {
         avatar: AVTR1,
         name: 'Chris Nitsch @NitschMedia',
-        review: 'Stephen is an eager developer with a broad set of skills and is quick minded in problem solving. We have collaborated on a few projects together, some nice and easy and others like managing an ecommerce website. He is always a joy to work with and very patient and understanding. Looking forward to upcoming projects.',
+        review: 'Stephen is an eager developer with a broad set of skills who is efficientt and quick minded in problem solving. We have collaborated on a few projects together, some nice and easy and others like managing an ecommerce website. He is always a joy to work with and very patient and understanding. Looking forward to upcoming projects.',
     },
     {
         avatar: AVTR2,
