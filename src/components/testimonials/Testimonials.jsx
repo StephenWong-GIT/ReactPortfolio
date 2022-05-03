@@ -38,11 +38,11 @@ const data = [
         name: 'Francine Foo, Wellness Chief @RUMC',
         review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
     },
-    {
-        avatar: AVTR6,
-        name: 'Seth Cotter, Sr. Consultant @NotionConsulting',
-        review: '',
-    },
+    // {
+    //     avatar: AVTR6,
+    //     name: 'Seth Cotter, Sr. Consultant @NotionConsulting',
+    //     review: '',
+    // },
     {
         avatar: AVTR3,
         name: 'James Depalo, EMT @MaimonidesMedicalCenter',
