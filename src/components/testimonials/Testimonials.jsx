@@ -25,28 +25,28 @@ const data = [
     },
     {
         avatar: AVTR2,
-        name: 'Yulia @JunitFounder',
+        name: 'Yulia, Founder @Junit',
         review: 'A friend recommened Stephen to me at the very early stages of my own brand. We have been working together ever since. He goes above and beyond whats asked and has even gone through lenghts to teach me the backend of my own website so I can update and change my own products without having to wait on anyone!',
     },
     {
         avatar: AVTR4,
-        name: 'Christina Cartagena @BlockchainChristy' ,
-        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
+        name: 'Christina Cartagena, @BlockchainChristy' ,
+        review: 'I have worked with Stephen on multiple projects and they have always turned out great and better than envisioned. He sees the small intricacies that most look over and thats what makes him different, even among other developers. Can not wait for our next big deal! ',
     },
     {
         avatar: AVTR5,
-        name: 'Francine Foo @Rumc Wellness Chief',
+        name: 'Francine Foo, Wellness Chief @RUMC',
         review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
     },
     {
         avatar: AVTR6,
-        name: 'Seth Cotter @Senior Consultant',
-        review: 'I have known Stephen for over 4+ years now and he is the most reliable and honest person I have come to meet. He has helped me with various web development tasks from updating products to social media content for my hospital page.',
+        name: 'Seth Cotter, Sr. Consultant @NotionConsulting',
+        review: '',
     },
     {
         avatar: AVTR3,
-        name: 'James Depalo @MaimonidesEMS',
-        review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed leadership and calmness even in the most stressfull situations. He has also help set up media content on my Twitch where I stream games and podcast, he always knows whats trending and how to make my channel grow!',
+        name: 'James Depalo, EMT @MaimonidesMedicalCenter',
+        review: 'Stephen was my EMT partner for 2+ years and over the thousands of jobs we have done together he always showed strong leadership and calmness even in the most stressfull situations. He has also helped my Twitch channel where I stream games and podcasts grow tremendously!',
     },
 ]
 
