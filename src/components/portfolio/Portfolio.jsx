@@ -26,7 +26,7 @@ const data = [
     {
         id: 3,
         image: IMG4,
-        title: 'Blockchain2022 Miami Event, Cyprto Event',
+        title: 'Blockchain2022 Miami, Cyprto Event',
         github: 'https://github.com/',
         demo: 'https://blockchain2022.miami/'
     },
