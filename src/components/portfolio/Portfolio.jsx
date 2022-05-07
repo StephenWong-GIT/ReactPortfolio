@@ -26,7 +26,7 @@ const data = [
     {
         id: 3,
         image: IMG4,
-        title: 'Blockchain2022 Miami, Cyprto event',
+        title: 'Blockchain2022 Miami, Crypto event',
         github: 'https://github.com/',
         demo: 'https://blockchain2022.miami/'
     },
@@ -40,7 +40,7 @@ const data = [
     {
         id: 5,
         image: IMG5,
-        title: 'React Portfolio, Source code/LiveDemo',
+        title: 'React Portfolio, Github source code',
         github: 'https://github.com/StephenWong-GIT/ReactPortfolio',
         demo: 'https://stephenwong.me/'
     },
