@@ -35,7 +35,7 @@ const About = () => {
                             <h5>Projects</h5>
                             <small>30+ Completed</small>
                         </article>
-                        <p>Retired EMT-B turned Full stack developer and software project manager. An adept developer focusing on JavaScript, Web and Mobile-first development. After success with WordPress front-end/back-end and Shopify development, I am eager to continue my career. I am a critical thinker who is hardworking and quick to learn new integrating technologies. I work well within a team and is willing to contribute to a positive work culture.</p>
+                        <p>Retired EMT-B turned Full stack developer and software project manager. An adept developer focusing on JavaScript, Web and Mobile-first development.</p>
                         <a href="#contact" className="btn btn-primary">Let's Talk!</a>
                     </div>
                 <div className="about__content">
