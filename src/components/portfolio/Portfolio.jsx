@@ -37,13 +37,13 @@ const data = [
         github: 'https://github.com/',
         demo: 'https://bizbits.io/'
     },
-    // {
-    //     id: 5,
-    //     image: IMG5,
-    //     title: 'Budget Tracker',
-    //     github: 'https://github.com/StephenWong-GIT/Budget-Tracker',
-    //     demo: 'https://morning-chamber-11706.herokuapp.com/'
-    // },
+    {
+        id: 5,
+        image: IMG5,
+        title: 'React Portfolio',
+        github: 'https://github.com/StephenWong-GIT/ReactPortfolio',
+        demo: 'https://stephenwong.me/'
+    },
     // {
     //     id: 6,
     //     image: IMG6,
