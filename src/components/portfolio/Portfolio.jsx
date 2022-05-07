@@ -26,14 +26,14 @@ const data = [
     {
         id: 3,
         image: IMG4,
-        title: 'Employee Manager Application',
+        title: 'Blockchain2022 Miami Event, Cyprto Event',
         github: 'https://github.com/',
         demo: 'https://blockchain2022.miami/'
     },
     {
         id: 4,
         image: IMG3,
-        title: 'Weather Dashboard Application',
+        title: 'BizBits, LIVE funding and investing platform',
         github: 'https://github.com/',
         demo: 'https://bizbits.io/'
     },
