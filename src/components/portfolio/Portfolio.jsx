@@ -12,21 +12,21 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Junit, eCommerce Jewelry Website',
+        title: 'Junit, eCommerce jewelry website',
         github: 'https://github.com/cnitsch821/junit-theme',
         demo: 'https://junit.com'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'iBetcrypto, Sport Betting using cyrpto currency',
+        title: 'iBetcrypto, Sports betting using cyrpto currency',
         github: 'https://github.com/',
         demo: 'https://ibetcrypto.io/'
     },
     {
         id: 3,
         image: IMG4,
-        title: 'Blockchain2022 Miami, Cyprto Event',
+        title: 'Blockchain2022 Miami, Cyprto event',
         github: 'https://github.com/',
         demo: 'https://blockchain2022.miami/'
     },
