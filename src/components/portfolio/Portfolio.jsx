@@ -25,17 +25,17 @@ const data = [
     },
     {
         id: 3,
-        image: IMG4,
-        title: 'Blockchain2022 Miami, Crypto event',
-        github: 'https://github.com/',
-        demo: 'https://blockchain2022.miami/'
-    },
-    {
-        id: 4,
         image: IMG3,
         title: 'BizBits, LIVE funding and investing platform',
         github: 'https://github.com/',
         demo: 'https://bizbits.io/'
+    },
+    {
+        id: 4,
+        image: IMG4,
+        title: 'Blockchain2022 Miami, Crypto event',
+        github: 'https://github.com/',
+        demo: 'https://blockchain2022.miami/'
     },
     {
         id: 5,
