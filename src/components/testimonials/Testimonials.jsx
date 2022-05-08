@@ -30,7 +30,7 @@ const data = [
     },
     {
         avatar: AVTR4,
-        name: 'Christina Cartagena, @BlockchainChristy' ,
+        name: 'Christina Cartagena, @Architechtura' ,
         review: 'I have worked with Stephen on multiple projects and they have always turned out great and better than envisioned. He sees the small intricacies that most look over and thats what makes him different, even among other developers. Can not wait for our next big deal! ',
     },
     {
